@@ -5,7 +5,7 @@ const SkillsSection = () => {
       <div className="flex items-center mb-6">
         <h2 className="text-3xl font-semibold text-[#C09061]">Skills</h2>
         <Image
-          src="/coffeeBean.png"
+          src="/CoffeeBean.png"
           alt="coffee"
           width={40}
           height={40}

@@ -5,7 +5,7 @@ const ExperienceSection = () => {
       <div className="flex items-center mb-6">
         <h2 className="text-3xl font-semibold text-[#C09061]">Experience</h2>
         <Image
-          src="/coffeeCup.png"
+          src="/CoffeeCup.png"
           alt="coffee"
           width={90}
           height={80}

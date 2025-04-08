@@ -5,7 +5,7 @@ const EducationSection = () => {
       <div className="flex items-center mb-6">
         <h2 className="text-3xl font-semibold text-[#C09061]">Education</h2>
         <Image
-          src="/coffeeEducation.png"
+          src="/CoffeeEducation.png"
           alt="coffee"
           width={40}
           height={40}
